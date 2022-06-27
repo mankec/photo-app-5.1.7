@@ -4,6 +4,8 @@
   "dependencies": {},
   "scripts": {
     "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.19.3"
   }
 }
-
